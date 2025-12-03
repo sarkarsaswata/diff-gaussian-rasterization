@@ -1,3 +1,17 @@
 build/
 diff_gaussian_rasterization.egg-info/
 dist/
+
+# python egg and cache
+.python-version
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.so
+*.o
+*.a
+
